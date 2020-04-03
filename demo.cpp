@@ -8,6 +8,9 @@
 
 #include "InfiniteInt.h"
 
+/*
+* Test function for InfiniteInt
+*/
 int main() {
     // Default constructor
     InfiniteInt infiniteInt0;
